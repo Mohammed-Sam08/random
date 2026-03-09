@@ -1,1 +1,1 @@
-# random for getting badges
+getting badges
